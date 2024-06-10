@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    
+}
+
+label {
+    width:500px;
+    height: 200px;
+    position: relative;
+    display: block;
+    background: white;
+    border-radius: 200px;
+    box-shadow: inset 0px 5px 15px black(0,0,0,0.4);
+
+}
